@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSocketClient", "WebSocketClient\WebSocketClient.csproj", "{50AFEAF1-D198-4F98-B8BF-A13115833339}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50AFEAF1-D198-4F98-B8BF-A13115833339}.Debug|x64.ActiveCfg = Debug|x64
+		{50AFEAF1-D198-4F98-B8BF-A13115833339}.Debug|x64.Build.0 = Debug|x64
+		{50AFEAF1-D198-4F98-B8BF-A13115833339}.Debug|x86.ActiveCfg = Debug|x86
+		{50AFEAF1-D198-4F98-B8BF-A13115833339}.Debug|x86.Build.0 = Debug|x86
+		{50AFEAF1-D198-4F98-B8BF-A13115833339}.Release|x64.ActiveCfg = Release|x64
+		{50AFEAF1-D198-4F98-B8BF-A13115833339}.Release|x64.Build.0 = Release|x64
+		{50AFEAF1-D198-4F98-B8BF-A13115833339}.Release|x86.ActiveCfg = Release|x86
+		{50AFEAF1-D198-4F98-B8BF-A13115833339}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76559CF7-F001-46EC-A7CB-052F743A4E26}
+	EndGlobalSection
+EndGlobal

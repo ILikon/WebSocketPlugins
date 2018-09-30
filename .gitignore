@@ -1,0 +1,5 @@
+WebSocketClient/obj/**
+WebSocketClient/WebSocketClient.csproj.user
+WebSocketClient/x64/**
+WebSocketClient/x32/**
+.vs/**
