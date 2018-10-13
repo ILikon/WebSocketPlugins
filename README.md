@@ -1,6 +1,10 @@
 # WebSocketPlugins
 A plugin for Rainmeter that implements a WebSocket client. Can be used to communicate with other programs, webpages or any device that hosts a WebSocket server.
 
+## Installation
+ 1. Get latest release from [here.](https://github.com/ILikon/WebSocketPlugins/releases/latest)
+ 1. Paste WebSocketClient.dll in `AppData\Roaming\Rainmeter\Plugins`.
+
 ## Measure Options
  - `Address` - address and port of the server to connect to
  - `OnOpen` - bang to execute when connection is estabilished
